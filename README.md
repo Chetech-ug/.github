@@ -1,4 +1,4 @@
-# CheTech UG
+# CheTech UG.
 
 **CheTech UG** builds simple, practical health-tech tools to solve real problems faced by people in Uganda.
 

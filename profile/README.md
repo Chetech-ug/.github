@@ -17,4 +17,4 @@ We believe technology should make healthcare easier, safer, and more human.
 1. Start small and practical. Deliver working features that solve clear problems.
 2. Keep people at the center. Design for users with limited bandwidth, intermittent power, and low-cost devices.
 3. Use modern tech thoughtfully. AI and blockchain are tools, not the goal. We use them where they add clear value.
-4. Collaborate openly. We welcome partners, contributors, and feedback.
+4. Collaborate openly. We welcome partners, contributors, and feedback..
